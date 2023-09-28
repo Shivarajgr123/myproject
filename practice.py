@@ -1,1 +1,0 @@
-print("Chitrasukla I love you")
